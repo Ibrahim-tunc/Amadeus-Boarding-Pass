@@ -1,0 +1,16 @@
+{
+  "name": "client---airplane-reservation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "start chrome http://localhost:3000 && node index.js",
+    "install-dependencies": "npm install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
